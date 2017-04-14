@@ -8,7 +8,7 @@ Inspirations:
 * slack conversation between @maciejtatol, @netes, @kevinkucharczyk, @bardzusny,
 @michalsnik, @jniechcial, @jbandura.
 
-> Change everything below
+TODO: Change everything below
 
 ## Installation and Usage
 
