@@ -1,28 +1,14 @@
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Build status][appveyor-image]][appveyor-url]
-[![Test coverage][coveralls-image]][coveralls-url]
-[![Downloads][downloads-image]][downloads-url]
-[![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=282608)](https://www.bountysource.com/trackers/282608-eslint?utm_source=282608&utm_medium=shield&utm_campaign=TRACKER_BADGE)
-[![Join the chat at https://gitter.im/eslint/eslint](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eslint/eslint?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# ESLint-kurwa
 
-# ESLint
+This is a fork of eslint with more clear messages in polish.
 
-[Website](http://eslint.org) |
-[Configuring](http://eslint.org/docs/user-guide/configuring) |
-[Rules](http://eslint.org/docs/rules/) |
-[Contributing](http://eslint.org/docs/developer-guide/contributing) |
-[Reporting Bugs](http://eslint.org/docs/developer-guide/contributing/reporting-bugs) |
-[Code of Conduct](https://js.foundation/conduct/) |
-[Twitter](https://twitter.com/geteslint) |
-[Mailing List](https://groups.google.com/group/eslint) |
-[Chat Room](https://gitter.im/eslint/eslint)
 
-ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code. In many ways, it is similar to JSLint and JSHint with a few exceptions:
+Inspirations:
+* [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa)
+* slack conversation between @maciejtatol, @netes, @kevinkucharczyk, @bardzusny,
+@michalsnik, @jniechcial, @jbandura.
 
-* ESLint uses [Espree](https://github.com/eslint/espree) for JavaScript parsing.
-* ESLint uses an AST to evaluate patterns in code.
-* ESLint is completely pluggable, every single rule is a plugin and you can add more at runtime.
+> Change everything below
 
 ## Installation and Usage
 
